@@ -9,7 +9,7 @@ Using these instructions, you will be able to run a copy of the project on your 
 What do you need to install the software and how to do it
 
 ```
-git clone https://github.com/DKMFzF/webowio.git
+git clone https://github.com/DKMFzF/portfolio-threejs.git
 ```
 
 ### Installation
